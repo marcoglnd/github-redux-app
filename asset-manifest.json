@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-redux-app/static/css/main.09ca9bd7.chunk.css",
+    "main.js": "/github-redux-app/static/js/main.dcc590b7.chunk.js",
+    "main.js.map": "/github-redux-app/static/js/main.dcc590b7.chunk.js.map",
+    "runtime-main.js": "/github-redux-app/static/js/runtime-main.b5a0db23.js",
+    "runtime-main.js.map": "/github-redux-app/static/js/runtime-main.b5a0db23.js.map",
+    "static/js/2.4891a367.chunk.js": "/github-redux-app/static/js/2.4891a367.chunk.js",
+    "static/js/2.4891a367.chunk.js.map": "/github-redux-app/static/js/2.4891a367.chunk.js.map",
+    "static/js/3.cd5c036b.chunk.js": "/github-redux-app/static/js/3.cd5c036b.chunk.js",
+    "static/js/3.cd5c036b.chunk.js.map": "/github-redux-app/static/js/3.cd5c036b.chunk.js.map",
+    "index.html": "/github-redux-app/index.html",
+    "static/css/main.09ca9bd7.chunk.css.map": "/github-redux-app/static/css/main.09ca9bd7.chunk.css.map",
+    "static/js/2.4891a367.chunk.js.LICENSE.txt": "/github-redux-app/static/js/2.4891a367.chunk.js.LICENSE.txt",
+    "static/media/logo.d331195c.svg": "/github-redux-app/static/media/logo.d331195c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5a0db23.js",
+    "static/js/2.4891a367.chunk.js",
+    "static/css/main.09ca9bd7.chunk.css",
+    "static/js/main.dcc590b7.chunk.js"
+  ]
+}
