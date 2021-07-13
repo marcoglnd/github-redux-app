@@ -1,0 +1,48 @@
+:root {
+  --body-bg: #f8f9fa;
+  --body-color: #6c757d;
+  --img-color: black;
+  --box-color: rgba(60, 64, 67, 0.3);
+  --button-shadow: rgba(0, 0, 0, 0.1);
+}
+
+.dark-mode:root {
+  --body-bg: #343a40;
+  --body-color: #dee2e6;
+  --img-color: white;
+  --box-color: rgba(0, 0, 0, 0.3);
+  --button-shadow: rgba(0, 0, 0, 0.1);
+}
+
+* {
+  margin: 0;
+  color: var(--body-color);
+  background: var(--body-bg);
+}
+
+.search-div {
+  box-shadow: var(--box-color) 0px 1px 2px 0px, var(--box-color) 0px 1px 3px 1px;
+}
+
+.details {
+  box-shadow: var(--box-color) 0px 1px 2px 0px, var(--box-color) 0px 1px 3px 1px;
+}
+
+.button {
+  box-shadow: 0 5px 5px var(--button-shadow);
+}
+
+header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+
+  button {
+    border: transparent;
+    border-radius: 10px;
+    cursor: pointer;
+    height: 50px;
+    margin-right: 12px;
+    width: 100px;
+  }
+}
